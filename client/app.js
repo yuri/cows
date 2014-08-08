@@ -4,7 +4,7 @@ var x = 1;
 console.log(x);
 // this is empty for now.
 
-var y = 2;
+var y = 42;
 
 // this is empty for now.
 
