@@ -1,1 +1,1 @@
-This is a blank repository, we'll add something more useful later.
+This is a new repository, we'll add something more useful later.
